@@ -1,4 +1,4 @@
 # sword-slash
-#only available pc
+#only available for pc
 #for mobile... work in progress
 simple javaScript games 
