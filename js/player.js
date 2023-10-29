@@ -79,7 +79,7 @@ export default class Player {
     this.explosion.forEach((object) => {
       object.draw(ctx);
     });
-
+  console.log(this.image);
     ctx.drawImage(
       this.image,
       this.frameX * this.width,
